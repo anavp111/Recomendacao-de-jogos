@@ -3,7 +3,7 @@ jogo(minecraft, simulacao, multiplayer, pc).
 jogo(stardew_valley, rpg, single_player, pc).
 jogo(hollow_knight, metroidvania, single_player, pc).
 jogo(portal_2, puzzle, multiplayer, pc).
-jogo(hades, roguelike, single_player, nintendo_switch).
+jogo(undertale, rpg, single_player, pc).
 jogo(it_takes_two, aventura, multiplayer, playstation).
 
 recomendar(Genero, Modo, Plataforma, Jogo) :-
